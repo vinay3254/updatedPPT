@@ -1,0 +1,20 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldAudio" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E6C15A"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#A8821F"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Speaker -->
+  <polygon points="64,104 104,104 144,72 144,184 104,152 64,152"
+           fill="url(#goldAudio)"/>
+
+  <!-- Sound waves -->
+  <path d="M176 104c20 20 20 48 0 68"
+        stroke="url(#goldAudio)"
+        stroke-width="20"
+        stroke-linecap="round"
+        fill="none"/>
+</svg>

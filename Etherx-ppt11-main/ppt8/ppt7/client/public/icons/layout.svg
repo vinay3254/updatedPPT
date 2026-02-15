@@ -1,0 +1,13 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldLayout" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E6C15A"/>
+      <stop offset="50%" stop-color="#C6A437"/>
+      <stop offset="100%" stop-color="#A8821F"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="48" y="48" width="72" height="72" rx="12" fill="url(#goldLayout)"/>
+  <rect x="136" y="48" width="72" height="72" rx="12" fill="url(#goldLayout)"/>
+  <rect x="48" y="136" width="160" height="72" rx="12" fill="url(#goldLayout)"/>
+</svg>

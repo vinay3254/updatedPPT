@@ -1,0 +1,13 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldPicture" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E6C15A"/>
+      <stop offset="50%" stop-color="#C6A437"/>
+      <stop offset="100%" stop-color="#A8821F"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="40" y="56" width="176" height="144" rx="20" fill="url(#goldPicture)"/>
+  <circle cx="96" cy="96" r="20" fill="#000"/>
+  <polygon points="70,170 120,120 170,170" fill="#000"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldChart" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E6C15A"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#A8821F"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Axes -->
+  <path d="M48 208V48" stroke="url(#goldChart)" stroke-width="22" stroke-linecap="round"/>
+  <path d="M48 208H208" stroke="url(#goldChart)" stroke-width="22" stroke-linecap="round"/>
+
+  <!-- Bars -->
+  <rect x="80" y="128" width="32" height="80" rx="10" fill="url(#goldChart)"/>
+  <rect x="128" y="96" width="32" height="112" rx="10" fill="url(#goldChart)"/>
+  <rect x="176" y="64" width="32" height="144" rx="10" fill="url(#goldChart)"/>
+</svg>

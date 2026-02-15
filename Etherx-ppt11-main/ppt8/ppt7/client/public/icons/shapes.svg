@@ -1,0 +1,17 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#C6A437" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    
+    <!-- Rectangle -->
+    <rect x="6" y="8" width="20" height="14" rx="2" />
+
+    <!-- Circle -->
+    <circle cx="48" cy="15" r="7" />
+
+    <!-- Triangle -->
+    <polygon points="12,40 22,58 2,58" />
+
+    <!-- Diamond -->
+    <polygon points="44,34 54,44 44,54 34,44" />
+
+  </g>
+</svg>

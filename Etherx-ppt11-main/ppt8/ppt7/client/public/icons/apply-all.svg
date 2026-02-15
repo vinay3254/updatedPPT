@@ -1,0 +1,29 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5D06F"/>
+      <stop offset="50%" stop-color="#C6A437"/>
+      <stop offset="100%" stop-color="#9F7F1F"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Clipboard body -->
+  <rect x="18" y="16" width="28" height="36"
+        rx="4"
+        fill="none"
+        stroke="url(#goldGradient)"
+        stroke-width="3"/>
+
+  <!-- Top clip -->
+  <rect x="24" y="8" width="16" height="10"
+        rx="3"
+        fill="url(#goldGradient)"/>
+
+  <!-- Lines -->
+  <line x1="24" y1="28" x2="40" y2="28"
+        stroke="url(#goldGradient)"
+        stroke-width="2"/>
+  <line x1="24" y1="36" x2="40" y2="36"
+        stroke="url(#goldGradient)"
+        stroke-width="2"/>
+</svg>

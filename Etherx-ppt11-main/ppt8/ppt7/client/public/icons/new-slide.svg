@@ -1,0 +1,12 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldPlus" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E6C15A"/>
+      <stop offset="50%" stop-color="#C6A437"/>
+      <stop offset="100%" stop-color="#A8821F"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="112" y="48" width="32" height="160" rx="12" fill="url(#goldPlus)"/>
+  <rect x="48" y="112" width="160" height="32" rx="12" fill="url(#goldPlus)"/>
+</svg>

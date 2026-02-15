@@ -1,0 +1,25 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldText" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E6C15A"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#A8821F"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Box -->
+  <rect x="40" y="56" width="176" height="144" rx="28"
+        stroke="url(#goldText)"
+        stroke-width="20"
+        fill="none"/>
+
+  <!-- Text lines -->
+  <line x1="80" y1="112" x2="176" y2="112"
+        stroke="url(#goldText)"
+        stroke-width="20"
+        stroke-linecap="round"/>
+  <line x1="96" y1="152" x2="160" y2="152"
+        stroke="url(#goldText)"
+        stroke-width="20"
+        stroke-linecap="round"/>
+</svg>

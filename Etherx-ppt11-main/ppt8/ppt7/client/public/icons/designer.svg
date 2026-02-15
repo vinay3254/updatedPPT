@@ -1,0 +1,29 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F6D365"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Light Bulb (Designer idea concept) -->
+  <path 
+    d="M32 8
+       C22 8 16 15 16 23
+       C16 30 21 34 24 38
+       C25.5 40 26 42 26 44
+       H38
+       C38 42 38.5 40 40 38
+       C43 34 48 30 48 23
+       C48 15 42 8 32 8Z"
+    fill="url(#goldGradient)"
+  />
+
+  <!-- Bulb Base -->
+  <rect x="26" y="44" width="12" height="4" rx="1" fill="#B8860B"/>
+  <rect x="27" y="49" width="10" height="3" rx="1" fill="#A67C00"/>
+
+  <!-- Shine Highlight -->
+  <circle cx="28" cy="20" r="3" fill="#FFF3B0" opacity="0.5"/>
+</svg>

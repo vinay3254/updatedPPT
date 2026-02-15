@@ -1,0 +1,12 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldExport" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E6C15A"/>
+      <stop offset="50%" stop-color="#C6A437"/>
+      <stop offset="100%" stop-color="#A8821F"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="48" y="160" width="160" height="32" rx="16" fill="url(#goldExport)"/>
+  <polygon points="128,40 176,96 144,96 144,152 112,152 112,96 80,96" fill="url(#goldExport)"/>
+</svg>
